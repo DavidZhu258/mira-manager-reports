@@ -1,0 +1,12 @@
+reports/
+logs/
+.files/
+*.local.env
+*.key
+*.secret
+*.log
+*.tmp
+__pycache__/
+.pytest_cache/
+.DS_Store
+Thumbs.db
